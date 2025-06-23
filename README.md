@@ -38,6 +38,10 @@ MAST supports a number of different payload types from the [RTP audio video prof
 
 It is intended that additional payload types will be added back in the future.
 
+Installation
+------------
+
+Instructions are inside [INSTALL](./INSTALL) file.
 
 What happened to MAST v1?
 -------------------------
